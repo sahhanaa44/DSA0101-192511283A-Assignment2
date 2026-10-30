@@ -1,0 +1,16 @@
+shift us=capacity=10 size=10 first=99990 last=99999
+10760
+ring us=capacity=10 size=10 first=99990 last=99999
+484
+shift us=capacity=50 size=50 first=99950 last=99999
+12921
+ring us=capacity=50 size=50 first=99950 last=99999
+370
+shift us=capacity=1000 size=1000 first=99000 last=99999
+15152
+ring us=capacity=1000 size=1000 first=99000 last=99999
+482
+shift us=capacity=10000 size=10000 first=90000 last=99999
+58490
+ring us=capacity=10000 size=10000 first=90000 last=99999
+635

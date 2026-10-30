@@ -1,0 +1,6 @@
+grams overload: 40.04
+float overload: 80
+kg overload: 80
+kg overload: 130
+kg overload: 155
+Parcel overload: 155
