@@ -3,7 +3,7 @@
 Name: **Sahhanaa Shree T**  
 Register number: **192511283**  
 Compiler: g++ 14.2.0 (validation environment; replace with your local version)  
-Repository: **[PASTE GITHUB LINK]**  
+Repository: **(https://github.com/sahhanaa44/DSA0101-192511283A-Assignment2)**  
 Due: 31 October 2026
 
 ## Q1 — Hostel fee concessions (6 marks)
